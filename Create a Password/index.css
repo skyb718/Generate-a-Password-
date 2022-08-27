@@ -1,0 +1,28 @@
+body {
+    margin: 0, auto;
+    padding: 0, auto;
+    text-align: center;
+    background: linear-gradient(peru, burlywood);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#choosePassword{
+    background-color: sienna; 
+    border: 1px  solid  black;
+}
+
+.place{
+    background: sienna;
+    border-radius: 10px;
+    width: 200px; 
+    margin: auto;
+    padding: 10px; 
+}
+
+#passwordOne{
+    margin: 10px auto;
+}
+
+#passwordTwo{
+    margin: 10px auto;
+}
